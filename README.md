@@ -12,8 +12,6 @@ Soy un profesional apasionado por la tecnología con amplia experiencia transfor
 
 ### 🛠️ Mi Caja de Herramientas (Tech Stack)
 
-*(Aquí insertaremos iconos visuales atractivos para cada tecnología)*
-
 * **Bases de Datos & Data:** Oracle, SQL Server, PostgreSQL, Power BI, Python (Data Science).
 * **Desarrollo Backend:** APIs, Microservicios, Java, Go.
 * **Infraestructura & Cloud:** Oracle Cloud Infrastructure (OCI), Linux (Ubuntu/Mint), Redes, Soporte TI Avanzado.
