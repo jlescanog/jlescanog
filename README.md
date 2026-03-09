@@ -1,61 +1,31 @@
-## Hi there 👋
+## ¡Hola! Soy Jhair Lescano 👋
 
-<!--
-**jlescanog/jlescanog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**Ingeniero de Datos | Especialista Cloud & Soporte TI | Desarrollador Backend**
 
-### ¡Hola! Soy Jhair Lescano 👨‍💻
+Soy un profesional apasionado por la tecnología con amplia experiencia transformando problemas complejos en soluciones eficientes. Mi trayectoria abarca desde el soporte de infraestructura crítica hasta la gestión avanzada de bases de datos y el desarrollo backend. Creo firmemente que "No hay problemas imposibles, solo sistemas que aún no hemos investigado lo suficiente".
 
-Soy un **DBA & Analista de Datos Senior** con experiencia en **SQL Server, Oracle y Linux**, y actualmente estoy ampliando mis habilidades como **Desarrollador Backend en Microservicios**. Estoy estudiando tecnologías de programación para seguir creciendo en el mundo del desarrollo de software y la gestión de datos.
+### 🚀 Mi Perfil en Resumen
 
----
+* **Experiencia Sólida:** Más de una década en el sector tecnológico, desempeñando roles clave como DBA Senior, Analista de Datos y Especialista de Soporte IT en entornos exigentes (incluyendo proyectos mineros de gran escala).
+* **Enfoque Actual:** Diseño y desarrollo de APIs en Linux, arquitectura de microservicios y optimización de pipelines de datos.
+* **Comunidad:** Orgulloso co-organizador de **GDG Tacna**, comprometido con el aprendizaje continuo y el crecimiento del ecosistema tecnológico local.
 
-### 🔭 Actualmente estoy trabajando en...
+### 🛠️ Mi Caja de Herramientas (Tech Stack)
 
-- Mejorar mis habilidades en el desarrollo de **microservicios** y la integración de sistemas.
-- Proyectos personales relacionados con el análisis de datos y la automatización de procesos.
-- Contribuir a proyectos de código abierto relacionados con bases de datos y backend.
+*(Aquí insertaremos iconos visuales atractivos para cada tecnología)*
 
-### 🌱 Actualmente estoy aprendiendo...
+* **Bases de Datos & Data:** Oracle, SQL Server, PostgreSQL, Power BI, Python (Data Science).
+* **Desarrollo Backend:** APIs, Microservicios, Java, Go.
+* **Infraestructura & Cloud:** Oracle Cloud Infrastructure (OCI), Linux (Ubuntu/Mint), Redes, Soporte TI Avanzado.
+* **Automatización:** Scripting en Linux, Integración de sistemas.
 
-- Tecnologías de programación como **Python, Java y Go**.
-- Herramientas y frameworks para el desarrollo de microservicios, como **Spring Boot, Flask y Docker**.
-- Conceptos avanzados de bases de datos y optimización de consultas.
-- Buenas prácticas en DevOps y CI/CD.
+### 📈 Qué encontrarás en mis repositorios (Destacados)
 
-### 👯 Estoy buscando colaborar en...
+1.  **tablero-anuncios:** (app web para el uso de una organizacion y gestion de reuniones ).
+2.  **dome-scoop:** (Web de gestion de tienda online implementa carrito y gestion de redes sociales).
+3.  **busqueda_dni:** (Aplicación web simple y eficiente para consultar datos personales a partir de un número de DNI peruano).
 
-- Proyectos relacionados con el análisis de datos y la gestión de bases de datos.
-- Desarrollo de aplicaciones backend escalables y eficientes.
-- Iniciativas de código abierto que involucren tecnologías de programación y bases de datos.
+### 📫 Conectemos
 
-### 🤔 Estoy buscando ayuda con...
-
-- Mejorar mis habilidades en el diseño de arquitecturas de microservicios.
-- Aprender más sobre **cloud computing** (AWS, Azure, GCP) y su integración con bases de datos.
-- Consejos y buenas prácticas para la optimización de consultas SQL.
-
-### 💬 Pregúntame sobre...
-
-- Bases de datos relacionales (**SQL Server, Oracle**) y no relacionales.
-- Desarrollo backend y arquitectura de microservicios.
-- Automatización de tareas y scripting en **Linux**.
-- Análisis de datos y visualización.
-
-### 📫 Cómo contactarme...
-
-- LinkedIn: (https://www.linkedin.com/in/jhair-lescano/))
-- Email: (mailto:jlescanog@hometech.com.es)
-- Twitter: ([https://twitter.com/tuusuario](https://x.com/jlescanog))
-
-### 😄 Pronombres...
-
-- Él / Him
-
-### ⚡ Dato curioso...
-
-- ¡Me encanta resolver problemas complejos y siempre estoy buscando nuevos desafíos en el mundo de la tecnología!
-
----
-
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme. 😄
+* **LinkedIn:** [linkedin.com/in/jhair-lescano](https://www.linkedin.com/in/jhair-lescano)
+* **Email:** jlescanoguevara@gmail.com
